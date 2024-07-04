@@ -88,3 +88,8 @@ outer();
 
 let myArr = [[[]]];
 console.table(myArr);
+
+function git()  {
+    let myArr = [[[]]];
+}
+git();
